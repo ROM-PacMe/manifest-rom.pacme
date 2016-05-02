@@ -10,6 +10,4 @@
 <project path="device/motorola/msm8610-common" name="android_device_motorola_msm8610-common" remote="creeperos-devices" />
 <project path="kernel/motorola/msm8610" name="android_kernel_motorola_msm8610" remote="creeperos-devices"
 
-
-
 </manifest>
